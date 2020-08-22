@@ -1,0 +1,10 @@
+form {
+    border: 1px solid #ccc;
+    margin: 20px;
+    padding: 20px;
+}
+
+.focus {
+    background: yellow;
+    color: red;
+}
